@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn {
+    background-color: rgb(231, 23, 23);
+    color: white;
+    padding: 10px 200px;
+    border-radius: 10px;
+    
+}

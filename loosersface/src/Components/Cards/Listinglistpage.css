@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+*,
+::before,
+::after{
+    box-sizing: border-box;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    gap: 10px 0px;
+   
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 40px;
+    
+}
+
+
+
+
+.contactbutn{
+    display: flex;
+    justify-content: center;
+    pad: 2px 10px;
+    
+}
+
+.conbtn{
+    padding: 15px 300px;
+    background-color: rgb(46, 98, 143);
+    color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+   
+}
+
+.image {
+    display: flex;
+    
+    align-items: center;
+}
+
+/* .contaceuser{
+
+} */

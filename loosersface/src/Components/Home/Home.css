@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Components{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.bgimg{
+     width: auto;
+     height: auto;
+}

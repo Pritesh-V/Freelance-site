@@ -1,0 +1,26 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana; 
+    
+ }
+ 
+ .Header {
+    z-index:1;
+    display: flex;
+    background-color: #a57ed4;
+    padding: 30px 0px;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+ }
+
+ .searchinput{
+   background-color:rgb(239, 240, 241);
+   padding: 10px 60px;
+   
+   border-radius: 10px;
+ }
+
+ 
